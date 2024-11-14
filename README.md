@@ -1,7 +1,7 @@
 # Patient-Clustering-and-Software
 This tool provides a user-friendly interface for sorting patients into groups based on proximity and medical care needs.
 
-![Gradio Interface Screenshot](gradio_interface_screenshot.png)
+![Gradio Interface Screenshot](first.png)
 
 ### Features:
 - Upload Excel files containing patient data
