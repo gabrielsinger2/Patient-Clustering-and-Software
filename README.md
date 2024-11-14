@@ -4,5 +4,5 @@ This tool provides a user-friendly interface for sorting patients into groups ba
 #Algorithm main ideas:
 First
 
-![Gradio Interface Screenshot](first.png)
+![Gradio Interface Screenshot](screenshot_demo.png)
 
